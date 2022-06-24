@@ -16,6 +16,15 @@
 
 * Recs from a [twitter thread](https://mobile.twitter.com/michael_nielsen/status/1349750282972905472)
 
-## Twitter follows
+## Blog posts
+
+* https://freaktakes.substack.com/p/when-do-ideas-get-easier-to-find?s=w
+* https://mattsclancy.substack.com/p/science-is-getting-harder?s=w
+
+## Twitter follows + threads
+
+* https://twitter.com/patrickc 
+  + https://mobile.twitter.com/patrickc/status/1532889923245617152
 
 ## Podcasts
+
