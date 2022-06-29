@@ -26,5 +26,9 @@
 * https://twitter.com/patrickc 
   + https://mobile.twitter.com/patrickc/status/1532889923245617152
 
+* https://twitter.com/mbateman
+
+* https://twitter.com/stuartbuck1
+
 ## Podcasts
 
