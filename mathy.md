@@ -102,6 +102,14 @@ now do:
 * _Shape of Space_ by Jeff Weeks [MAA review](https://www.maa.org/press/maa-reviews/the-shape-of-space-0)
 * _Symmetry of things_ by John Conway
 
+## Reading
+
+linkdump:
+* https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/
+* https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/#comment-32483
+* https://math.stanford.edu/~vakil/threethings.html
+* https://www.ams.org/journals/notices/202005/rnoti-p660.pdf
+
 ## gerrymandering
 
 I find this area surprisingly compelling to read about, but I've only dipped
@@ -118,4 +126,63 @@ my toe so far.
 * Moon Duchin on Fair Voting and Random Walks, on the [Joy of
   $x$](https://www.quantamagazine.org/moon-duchin-on-fair-voting-and-random-walks-20200407/)
   podcast.
+
+
+## Randomized approaches
+
+I first ran into randomized algorithms in William's modular forms book; it was
+one of those moments when I realized there's a whole approach to some kinds of
+problem that I'd been missing out on.
+
+* _The Probabilistic Method_, by Alon and Spencer. This is apparently a
+  classic -- I ended up picking up a copy [spurred by a Twitter
+  thread](https://twitter.com/craigcitro/status/1333972568273944582), but
+  haven't had a chance to read this yet. The book is about using probabilistic
+  proofs to prove existence theorems, which are interesting and surprisingly
+  powerful in their own right. 
+  
+  However, as they point out in the opening section, a probabilistic proof is
+  also often a template for a randomized algorithm to produce examples of the
+  object you're trying to find. (!!)
+  
+  [MAA Reviews](https://www.maa.org/press/maa-reviews/the-probabilistic-method-0)
+
+* _Probability and Computing_ by Mitzenmacher and Upfal. I ran into this book
+  on [Dan Luu's programming list](https://danluu.com/programming-books/), and
+  later ran into the [MAA
+  Review](https://www.maa.org/press/maa-reviews/probability-and-computing-randomized-algorithms-and-probabilistic-analysis).
+  
+## Pop math
+
+* _Closing the Gap_ by Neale is about the recent work on twin primes.
+* _Elliptic Tales_ by Ash + Gross is about elliptic curves.
+* _Fearless Symmetry_ by Ash + Gross tries to motivate reciprocity laws for a
+  popular audience. (Words I never thought I'd hear.)
+* _Genius at Play_ by Roberts is a John H Conway bio. 'Nuff said.
+* _Mathematics for Human Flourishing_ by Francis Su -- I read an essay-length
+  version of this that I enjoyed; I'm curious what all he has to say in a
+  book-length version. (I worry that it's "the same thing, many times".)
+
+## Formalization of mathematics
+
+This is one of those topics I'd happily throw myself into if I were still a
+grad student, so maybe it's safer that it's picking up steam now. :)
+
+* Peter's Scholze's [Liquid Tensor
+  Experiment](https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/)
+  post is trying to drum up support for the formalization community to help
+  him formalize and verify a result he's actively working on; that'd be quite
+  the endorsement if it works out. 
+  
+  There are a number of amazing tidbits in there (as noted in [this HN
+  thread](https://news.ycombinator.com/item?id=25324707)); this paragraph in
+  particular is incredible:
+  
+      I have occasionally been able to be very persuasive even with wrong
+      arguments. (Fun fact: In the selection exams for the international math
+      olympiad, twice I got full points for a wrong solution. Later, I once
+      had a full proof of the weight-monodromy conjecture that passed the
+      judgment of some top mathematicians, but then it turned out to contain a
+      fatal mistake.)
+
 
